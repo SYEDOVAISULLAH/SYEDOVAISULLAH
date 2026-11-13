@@ -1,33 +1,54 @@
-# Syed Ovaisullah
+<h1 align="center">Hi, I'm Syed Ovaisullah 👋</h1>
+<h3 align="center">Java & Automation Engineer</h3>
 
-I am a **Java & Automation Engineer** specializing in robust backend architectures, database optimization, and enterprise-grade system integrations. My core expertise lies in designing scalable backend logic using Java alongside building intelligent automation pipelines that bridge advanced AI capabilities with production workflows.
+<p align="center">
+  Building scalable Java backends and AI-powered automation pipelines that turn raw data into real decisions.
+</p>
 
-Throughout my professional experience, I have successfully engineered custom AI-driven dashboards, designed complex automation ecosystems, and delivered end-to-end tools that transform raw operational metrics into actionable data. 
-
----
-
-### Core Competencies
-
-* **Backend & System Architecture:** Enterprise application design leveraging Java, Spring Boot, and Hibernate/JPA.
-* **Database Management:** Structuring and optimizing relational and non-relational storage layers, including PostgreSQL, MySQL, MongoDB, and Redis.
-* **Intelligent Automations:** Professional n8n workflow engineering, webhook management, and programmatic integration of Large Language Models (LLMs).
-* **Frontend Implementations:** Building interactive, data-driven interfaces using React, JavaScript (ES6+), HTML5, and CSS3.
+<p align="center">
+  <a href="https://www.linkedin.com/in/syed-ovais-ullah-b796892a7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:syedovais831@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-### Professional Implementations & Case Studies
+## 🛠️ Tech Stack
 
-#### 📊 AI-Driven Analytics & Operational Dashboards
-Engineered custom backend systems that aggregate high-throughput transactional data, feeding it directly into intuitive analytics tools. Leveraged LLM integrations and custom UI layers to deliver real-time operational insights and predictive data modeling.
-* **Technologies:** Java, React, PostgreSQL, AI Frameworks / API Integrations
+**Backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 
-#### ⚙️ Production-Grade n8n Automations
-Designed, optimized, and deployed complex enterprise automations via n8n. Focused on establishing zero-downtime data synchronization pipelines between CRMs, custom databases, and external cloud services while utilizing custom JavaScript logic blocks for data processing.
-* **Technologies:** n8n, Webhooks, JavaScript, Redis, RESTful APIs
+**Database**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Automation & AI**
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-333333?style=flat-square)
+![LLM APIs](https://img.shields.io/badge/LLM_Integrations-412991?style=flat-square)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
-### Professional Network & Contact
+## 🚀 What I Build
 
-* **Professional Network:** [[LinkedIn Profile](https://www.linkedin.com/in/syed-ovais-ullah-b796892a7/)]
-* **Direct Inquiry:** [syedovais831@gmail.com](mailto:your.email@example.com)
+**📊 AI-Driven Analytics Dashboards**
+Java backends that aggregate high-volume transactional data, paired with React UIs and LLM integrations for real-time operational insights.
+`Java` · `React` · `PostgreSQL` · `LLM APIs`
+
+**⚙️ Production n8n Automations**
+Reliable data-sync pipelines between CRMs, custom databases, and cloud services, using webhooks, REST APIs, and custom JavaScript logic.
+`n8n` · `Webhooks` · `JavaScript` · `Redis` · `REST`
+
+---
+
+## 📫 Let's Connect
+
+Open to backend, automation, and AI integration work.
+📧 [syedovais831@gmail.com](mailto:syedovais831@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/syed-ovais-ullah-b796892a7/)

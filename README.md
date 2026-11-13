@@ -1,19 +1,17 @@
-## Hi there 👋
-
 # Syed Ovaisullah
 
-I am a **Computer Science Undergraduate and Software Engineer** specializing in Java backend development, database architecture, and enterprise-grade system automations. My technical focus centers on bridging traditional backend engineering with cutting-edge automation ecosystems and AI-driven data systems.
+I am a **Java & Automation Engineer** specializing in robust backend architectures, database optimization, and enterprise-grade system integrations. My core expertise lies in designing scalable backend logic using Java alongside building intelligent automation pipelines that bridge advanced AI capabilities with production workflows.
 
-Operating at the intersection of academic CS fundamentals and professional development, I have successfully designed, built, and deployed custom AI-driven dashboards, production-ready n8n workflows, and interactive tools that solve real-world operational challenges.
+Throughout my professional experience, I have successfully engineered custom AI-driven dashboards, designed complex automation ecosystems, and delivered end-to-end tools that transform raw operational metrics into actionable data. 
 
 ---
 
-### Technical Expertise
+### Core Competencies
 
 * **Backend & System Architecture:** Enterprise application design leveraging Java, Spring Boot, and Hibernate/JPA.
 * **Database Management:** Structuring and optimizing relational and non-relational storage layers, including PostgreSQL, MySQL, MongoDB, and Redis.
-* **Intelligent Automations:** Professional n8n workflow engineering, webhook architecture, and programmatic integration of LLM/AI APIs.
-* **Frontend Implementations:** Designing interactive, data-driven interfaces using React, JavaScript (ES6+), HTML5, and CSS3.
+* **Intelligent Automations:** Professional n8n workflow engineering, webhook management, and programmatic integration of Large Language Models (LLMs).
+* **Frontend Implementations:** Building interactive, data-driven interfaces using React, JavaScript (ES6+), HTML5, and CSS3.
 
 ---
 

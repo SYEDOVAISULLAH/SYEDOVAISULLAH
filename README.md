@@ -31,8 +31,5 @@ Designed, optimized, and deployed complex enterprise automations via n8n. Focuse
 
 ### Professional Network & Contact
 
-Linkedin: https://www.linkedin.com/in/syed-ovais-ullah-b796892a7/
-Mail: syedovais831@gmail.com
-
-* **Professional Network:** [LinkedIn Profile](https://linkedin.com)
-* **Direct Inquiry:** [your.email@example.com](mailto:your.email@example.com)
+* **Professional Network:** [[LinkedIn Profile](https://www.linkedin.com/in/syed-ovais-ullah-b796892a7/)](https://linkedin.com)
+* **Direct Inquiry:** [syedovais831@gmail.com](mailto:your.email@example.com)
